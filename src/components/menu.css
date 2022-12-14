@@ -1,0 +1,71 @@
+header#imagem{
+	text-align:center;
+	position:relative;
+	border-bottom: 2px solid red;
+}
+
+header#NomedoSite{
+	font-family: "Comic Sans MS";
+	text-align:center;
+	position:relative;
+	border-bottom:2px solid red;
+}
+
+header#menu{
+	display:table;
+	margin:auto;
+}
+
+section#texto{
+	display:block;
+	text-align:right;
+	font-size:30px;
+	padding:10px;
+}
+section#menu1{
+	position:relative;
+}
+
+nav#menu2 ul{
+	list-style:none;
+	text-transform:uppercase;
+}
+
+body{
+	background-color:black;
+	color:red;
+}
+
+section#menu1{
+	position:relative;
+}
+
+nav#menu2 ul{
+	list-style:none;
+	text-transform:uppercase;
+}
+
+nav#menu2 li{
+	display: inline-block;
+	border:1px solid white;
+	padding:10px;
+	transition: background-color 0s;
+	color:red;
+	font-size:12pt;
+	margin:5px;
+	font-weight:bold;
+}
+
+nav#menu2 li:hover{
+	background-color:white;
+	font-size:101%;
+}
+
+header#linha{
+	border-bottom:3px solid red;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

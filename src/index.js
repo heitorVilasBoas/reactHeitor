@@ -2,7 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import Sobre from './Sobre';
+import Imagens from './Imagens';
+import Interface from './Interface';
+import tabelas from './tabelas';
 import reportWebVitals from './reportWebVitals';
+import Tabelass from './tabelas.jsx';
+import Imagenss from './Imagens.jsx';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
